@@ -1,0 +1,64 @@
+D:\Arbete\Utv\V2012i\BU2012-03-24\obj\x86\Debug\Interop.MSAdodcLib.dll
+D:\Arbete\Utv\V2012i\BU2012-03-24\obj\x86\Debug\V2012net.vbproj.ResolveComReference.cache
+D:\Arbete\Utv\V2012i\BU2012-03-24\obj\x86\Debug\V2012net.exe
+D:\Arbete\Utv\V2012i\BU2012-03-24\obj\x86\Debug\V2012net.xml
+D:\Arbete\Utv\V2012i\BU2012-03-24\obj\x86\Debug\V2012net.pdb
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\Interop.MSAdodcLib.dll
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\V2012net.vbproj.ResolveComReference.cache
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\V2012net.exe
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\V2012net.xml
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\V2012net.pdb
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\bin\Debug\V2012net.exe
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\bin\Debug\V2012net.pdb
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\bin\Debug\V2012net.xml
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\WindowsApplication1.Anställningsreg.resources
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\WindowsApplication1.Foretag.resources
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\WindowsApplication1.Kodregister.resources
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\WindowsApplication1.Startmeny.resources
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\WindowsApplication1.Testform.resources
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Arbete\Utv\V2012i\Copy of BU2012-03-24\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Arbete\Utv\V2012i\BU2012-03-25\obj\x86\Debug\Interop.MSAdodcLib.dll
+D:\Arbete\Utv\V2012i\BU2012-03-25\obj\x86\Debug\V2012net.vbproj.ResolveComReference.cache
+D:\Arbete\Utv\V2012i\BU2012-03-25\obj\x86\Debug\V2012net.exe
+D:\Arbete\Utv\V2012i\BU2012-03-25\obj\x86\Debug\V2012net.xml
+D:\Arbete\Utv\V2012i\BU2012-03-25\obj\x86\Debug\V2012net.pdb
+D:\Arbete\Utv\V2012i\V2012net\bin\Debug\V2012net.exe.config
+D:\Arbete\Utv\V2012i\V2012net\bin\Debug\V2012net.exe
+D:\Arbete\Utv\V2012i\V2012net\bin\Debug\V2012net.pdb
+D:\Arbete\Utv\V2012i\V2012net\bin\Debug\V2012net.xml
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\Interop.MSAdodcLib.dll
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\V2012net.vbproj.ResolveComReference.cache
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.AnstalldLista.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.Anställningsreg.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.Foretag.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.KodlistaF.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.Kodregister.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.Startmeny.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.Testform.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\WindowsApplication1.UtbetalningarF.resources
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\V2012net.exe
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\V2012net.xml
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\V2012net.pdb
+D:\Arbete\Utv\V2012i\V2012net\bin\Debug\V2012net.exe.manifest
+D:\Arbete\Utv\V2012i\V2012net\bin\Debug\V2012net.application
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\V2012net.exe.manifest
+D:\Arbete\Utv\V2012i\V2012net\obj\x86\Debug\V2012net.application
+D:\Arbete\Utv\V2012i\VOLF2012net\bin\Debug\V2012net.exe.config
+D:\Arbete\Utv\V2012i\VOLF2012net\obj\x86\Debug\Interop.MSAdodcLib.dll
+D:\Arbete\Utv\V2012i\VOLF2012net\obj\x86\Debug\V2012net.vbproj.ResolveComReference.cache
+D:\Arbete\Utv\V2012i\VOLF2012net\obj\x86\Debug\V2012net.exe
+D:\Arbete\Utv\V2012i\VOLF2012net\obj\x86\Debug\V2012net.xml
+D:\Arbete\Utv\V2012i\VOLF2012net\obj\x86\Debug\V2012net.pdb
+C:\UTV\V2012i\VOLF2012net\bin\Debug\V2012net.exe.config
+C:\UTV\V2012i\VOLF2012net\obj\x86\Debug\V2012net.vbproj.ResolveComReference.cache
+C:\UTV\VadminPDFnet\bin\Debug\V2012net.exe.config
+C:\UTV\VadminPDFnet\obj\x86\Debug\Interop.MSAdodcLib.dll
+C:\UTV\VadminPDFnet\obj\x86\Debug\V2012net.vbproj.ResolveComReference.cache
+C:\UTV\VadminPDFnet\obj\x86\Debug\V2012net.vbprojResolveAssemblyReference.cache
