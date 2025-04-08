@@ -20,7 +20,7 @@ Public Class OrdFaktF
         Dim rect As Rectangle = Screen.PrimaryScreen.WorkingArea
         Me.Top = (rect.Height / 2) - (Me.Height / 2)
         Me.Left = (rect.Width / 2) - (Me.Width / 2)
-        Ver.Text = "Version: " + "20250210d"
+        Ver.Text = "Version: " + "20250408a"
         ' pdfprintername = "PDF Creator"
         'pdfprintername = "PDF Architect 5"
         pdfprintername = "WIN2PDF"
