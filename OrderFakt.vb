@@ -20,7 +20,7 @@ Public Class OrdFaktF
         Dim rect As Rectangle = Screen.PrimaryScreen.WorkingArea
         Me.Top = (rect.Height / 2) - (Me.Height / 2)
         Me.Left = (rect.Width / 2) - (Me.Width / 2)
-        Ver.Text = "Version: " + "20250408a"
+        Ver.Text = "Version: " + "20260421a"
         ' pdfprintername = "PDF Creator"
         'pdfprintername = "PDF Architect 5"
         pdfprintername = "WIN2PDF"
@@ -502,6 +502,12 @@ Public Class OrdFaktF
             momsbelL.Text = Format$(momsbel, "###,##0.00")
             attbet = TOT - exrab + momsbel
             MOMSLabel.Text = "Moms " + CStr(moms2) + "%"
+        ElseIf MomsTypTB.Text = 3 Then
+            momsbel = (TOT - exrab) * momsv(3)
+            momsbelL.Text = Format$(momsbel, "###,##0.00")
+            attbet = TOT - exrab + momsbel
+            MOMSLabel.Text = "Moms " + CStr(moms3) + "%"
+
         ElseIf MomsTypTB.Text = 4 Then
             momsbel = (TOT - exrab) * momsv(4)
             momsbelL.Text = Format$(momsbel, "###,##0.00")
@@ -515,6 +521,7 @@ Public Class OrdFaktF
         End If
         attbet = avrund(attbet)
         attbetL.Text = Format$(attbet, "###,##0.00")
+
     End Sub
 
     Private Sub KortCB_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles KortCB.CheckedChanged
