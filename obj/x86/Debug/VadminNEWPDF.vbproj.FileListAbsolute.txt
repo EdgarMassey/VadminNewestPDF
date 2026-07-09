@@ -1,0 +1,29 @@
+C:\Users\edgar\Desktop\VadminPDFnet\bin\Release\VadminNEWPDF.exe.config
+C:\Users\edgar\Desktop\VadminPDFnet\bin\Release\VadminNEWPDF.exe
+C:\Users\edgar\Desktop\VadminPDFnet\bin\Release\VadminNEWPDF.pdb
+C:\Users\edgar\Desktop\VadminPDFnet\bin\Release\VadminNEWPDF.xml
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminNEWPDF.vbproj.AssemblyReference.cache
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminNEWPDF.vbproj.ResolveComReference.cache
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\Ord.Foretag.resources
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\Ord.Resources.resources
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\Ord.OrdFaktF.resources
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminNEWPDF.vbproj.GenerateResource.cache
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminNEWPDF.vbproj.CoreCompileInputs.cache
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminNEWPDF.exe
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminNEWPDF.xml
+C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminNEWPDF.pdb
+C:\Users\edgar\Desktop\VadminNEW PDF\bin\Release\VadminNEWPDF.exe.config
+C:\Users\edgar\Desktop\VadminNEW PDF\bin\Release\VadminNEWPDF.exe
+C:\Users\edgar\Desktop\VadminNEW PDF\bin\Release\VadminNEWPDF.pdb
+C:\Users\edgar\Desktop\VadminNEW PDF\bin\Release\VadminNEWPDF.xml
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.vbproj.AssemblyReference.cache
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.exe.config
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.vbproj.ResolveComReference.cache
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\Ord.Foretag.resources
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\Ord.Resources.resources
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\Ord.OrdFaktF.resources
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.vbproj.GenerateResource.cache
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.vbproj.CoreCompileInputs.cache
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.exe
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.xml
+C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.pdb

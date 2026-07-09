@@ -72,3 +72,17 @@ C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminPDFnet.xml
 C:\Users\edgar\Desktop\VadminPDFnet\obj\x86\Debug\VadminPDFnet.pdb
 C:\UTV\VadminPDFnet\obj\x86\Debug\VadminPDFnet.vbproj.AssemblyReference.cache
 C:\UTV\VadminPDFnet\obj\x86\Debug\VadminPDFnet.vbproj.CoreCompileInputs.cache
+C:\Foretag\VadminPDFnet\bin\Release\VadminPDFnet.exe.config
+C:\Foretag\VadminPDFnet\bin\Release\VadminPDFnet.exe
+C:\Foretag\VadminPDFnet\bin\Release\VadminPDFnet.pdb
+C:\Foretag\VadminPDFnet\bin\Release\VadminPDFnet.xml
+C:\Foretag\VadminPDFnet\obj\x86\Debug\VadminPDFnet.vbproj.AssemblyReference.cache
+C:\Foretag\VadminPDFnet\obj\x86\Debug\VadminPDFnet.vbproj.ResolveComReference.cache
+C:\Foretag\VadminPDFnet\obj\x86\Debug\Ord.Foretag.resources
+C:\Foretag\VadminPDFnet\obj\x86\Debug\Ord.Resources.resources
+C:\Foretag\VadminPDFnet\obj\x86\Debug\Ord.OrdFaktF.resources
+C:\Foretag\VadminPDFnet\obj\x86\Debug\VadminPDFnet.vbproj.GenerateResource.cache
+C:\Foretag\VadminPDFnet\obj\x86\Debug\VadminPDFnet.vbproj.CoreCompileInputs.cache
+C:\Foretag\VadminPDFnet\obj\x86\Debug\VadminPDFnet.exe
+C:\Foretag\VadminPDFnet\obj\x86\Debug\VadminPDFnet.xml
+C:\Foretag\VadminPDFnet\obj\x86\Debug\VadminPDFnet.pdb

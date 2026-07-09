@@ -20,7 +20,7 @@ Public Class OrdFaktF
         Dim rect As Rectangle = Screen.PrimaryScreen.WorkingArea
         Me.Top = (rect.Height / 2) - (Me.Height / 2)
         Me.Left = (rect.Width / 2) - (Me.Width / 2)
-        Ver.Text = "Version: " + "20260421a"
+        Ver.Text = "Version: " + "20260709a"
         ' pdfprintername = "PDF Creator"
         'pdfprintername = "PDF Architect 5"
         pdfprintername = "WIN2PDF"
@@ -4278,7 +4278,8 @@ nocon:
             mail.From = New MailAddress(epostfran)
 
             ' Attach PDF
-            pdfname = getpdfname()
+            ' pdfname = getpdfname()
+            pdfname = "C:\PDF\" & GetFaktTB.Text & ".pdf"
             mail.Attachments.Add(New Attachment(pdfname))
 
             ' Add primary recipient (To)
@@ -4462,13 +4463,22 @@ nocon:
 
 
             If epostbody = "Följesedel" Then
-                PrintDocument2.PrinterSettings.Copies = 1
-                PrintDocument2.PrinterSettings.PrinterName = pdfprintername
+                'PrintDocument2.PrinterSettings.Copies = 1
+                'PrintDocument2.PrinterSettings.PrinterName = pdfprintername
+                'PrintDocument2.Print()
+                PrintDocument2.PrinterSettings.PrinterName = "Microsoft Print to PDF"
+                PrintDocument2.PrinterSettings.PrintToFile = True
+                PrintDocument2.PrinterSettings.PrintFileName = "C:\PDF\" & GetFaktTB.Text & ".pdf"
                 PrintDocument2.Print()
 
             Else
-                PrintDocument1.PrinterSettings.Copies = 1
-                PrintDocument1.PrinterSettings.PrinterName = pdfprintername
+                'PrintDocument1.PrinterSettings.Copies = 1
+                'PrintDocument1.PrinterSettings.PrinterName = pdfprintername
+                'PrintDocument1.Print()
+
+                PrintDocument1.PrinterSettings.PrinterName = "Microsoft Print to PDF"
+                PrintDocument1.PrinterSettings.PrintToFile = True
+                PrintDocument1.PrinterSettings.PrintFileName = "C:\PDF\" & GetFaktTB.Text & ".pdf"
                 PrintDocument1.Print()
             End If
 
@@ -4510,9 +4520,9 @@ nocon:
 
                 wait(10)
                 My.Computer.FileSystem.CopyDirectory("C:\PDF", "C:\PDFArkiv", True)
-                wait(10)
-                Kill("C:\PDF\*.*")
-            End If
+
+            ' Kill("C:\PDF\*.*")
+        End If
             Me.BringToFront()
         Me.Cursor = System.Windows.Forms.Cursors.Arrow
         FardigStatus = "Färdig"
