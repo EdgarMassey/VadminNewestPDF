@@ -27,3 +27,17 @@ C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.vbproj.CoreCompi
 C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.exe
 C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.xml
 C:\Users\edgar\Desktop\VadminNEW PDF\obj\x86\Debug\VadminNEWPDF.pdb
+C:\Github\VadminNEWPDF\bin\Release\VadminNEWPDF.exe.config
+C:\Github\VadminNEWPDF\bin\Release\VadminNEWPDF.exe
+C:\Github\VadminNEWPDF\bin\Release\VadminNEWPDF.pdb
+C:\Github\VadminNEWPDF\bin\Release\VadminNEWPDF.xml
+C:\Github\VadminNEWPDF\obj\x86\Debug\VadminNEWPDF.vbproj.AssemblyReference.cache
+C:\Github\VadminNEWPDF\obj\x86\Debug\VadminNEWPDF.vbproj.ResolveComReference.cache
+C:\Github\VadminNEWPDF\obj\x86\Debug\Ord.Foretag.resources
+C:\Github\VadminNEWPDF\obj\x86\Debug\Ord.Resources.resources
+C:\Github\VadminNEWPDF\obj\x86\Debug\Ord.OrdFaktF.resources
+C:\Github\VadminNEWPDF\obj\x86\Debug\VadminNEWPDF.vbproj.GenerateResource.cache
+C:\Github\VadminNEWPDF\obj\x86\Debug\VadminNEWPDF.vbproj.CoreCompileInputs.cache
+C:\Github\VadminNEWPDF\obj\x86\Debug\VadminNEWPDF.exe
+C:\Github\VadminNEWPDF\obj\x86\Debug\VadminNEWPDF.xml
+C:\Github\VadminNEWPDF\obj\x86\Debug\VadminNEWPDF.pdb
