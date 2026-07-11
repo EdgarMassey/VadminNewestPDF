@@ -20,7 +20,7 @@ Public Class OrdFaktF
         Dim rect As Rectangle = Screen.PrimaryScreen.WorkingArea
         Me.Top = (rect.Height / 2) - (Me.Height / 2)
         Me.Left = (rect.Width / 2) - (Me.Width / 2)
-        Ver.Text = "Version: " + "20260709a"
+        Ver.Text = "Version: " + "20260711a"
         ' pdfprintername = "PDF Creator"
         'pdfprintername = "PDF Architect 5"
         pdfprintername = "WIN2PDF"
@@ -4521,7 +4521,7 @@ nocon:
                 wait(10)
                 My.Computer.FileSystem.CopyDirectory("C:\PDF", "C:\PDFArkiv", True)
 
-            ' Kill("C:\PDF\*.*")
+            Kill("C:\PDF\*.*")
         End If
             Me.BringToFront()
         Me.Cursor = System.Windows.Forms.Cursors.Arrow
