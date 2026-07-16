@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,21 +48,21 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OrderFakt.vb",
               "DocumentMoniker": "C:\\Github\\VadminNEWPDF\\OrderFakt.vb",
               "RelativeDocumentMoniker": "OrderFakt.vb",
-              "ToolTip": "C:\\Github\\VadminNEWPDF\\OrderFakt.vb*",
-              "RelativeToolTip": "OrderFakt.vb*",
+              "ToolTip": "C:\\Github\\VadminNEWPDF\\OrderFakt.vb",
+              "RelativeToolTip": "OrderFakt.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-07-09T11:30:34.75Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -81,8 +81,8 @@
               "Title": "OrderFakt.vb [Design]",
               "DocumentMoniker": "C:\\Github\\VadminNEWPDF\\OrderFakt.vb",
               "RelativeDocumentMoniker": "OrderFakt.vb",
-              "ToolTip": "C:\\Github\\VadminNEWPDF\\OrderFakt.vb [Design]*",
-              "RelativeToolTip": "OrderFakt.vb [Design]*",
+              "ToolTip": "C:\\Github\\VadminNEWPDF\\OrderFakt.vb [Design]",
+              "RelativeToolTip": "OrderFakt.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-07-09T11:30:34.922Z",
               "EditorCaption": " [Design]"
